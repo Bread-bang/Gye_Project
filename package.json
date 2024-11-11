@@ -1,0 +1,19 @@
+{
+  "name": "gye_project",
+  "version": "1.0.0",
+  "description": "Gye project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {}
+}
